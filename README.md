@@ -4,7 +4,7 @@
 
 ![QR Code](images/follow-me-qr.png)
 
-### [Tableau](https://github.com/ttrout5/tableau)  
+### [Tableau](https://public.tableau.com/app/profile/tim.troutman/vizzes)  
 
 ### [R Programming](https://github.com/ttrout5/ids400)
 
