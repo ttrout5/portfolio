@@ -10,5 +10,4 @@
 
 ### SQL
 
-
 #### Tableau Examples
