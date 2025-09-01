@@ -4,7 +4,7 @@
 
 ### [Tableau](https://github.com/ttrout5/tableau)  
 
-### R Programming
+### [R Programming](https://github.com/ttrout5/ids400)
 
 ### Python
 
